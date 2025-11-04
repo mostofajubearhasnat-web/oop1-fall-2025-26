@@ -13,7 +13,6 @@ public class MidTask{
                 
             //add email adress
             String email = "mostofajubear.turing@example.com";
-             // Find the index of the '@' symbol
-             int atIndex = email.indexOf('@');
+             
             }
         }
